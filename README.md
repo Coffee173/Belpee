@@ -1,2 +1,2 @@
 # Belpe
-Um Site criado como pojeto de desenvolvimento para um curso 
+Um Site criado para um pojeto de um curso  ;)
